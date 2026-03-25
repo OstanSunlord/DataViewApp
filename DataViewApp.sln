@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataView", "DataView.csproj", "{22C54354-E15B-4CC1-A678-52E2F96FD90B}"
 EndProject
-Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "DataViewSetup", "Setup\DataViewSetup.wixproj", "{3F04FAD6-58C0-4818-9DA9-323DD6333612}"
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "DataViewSetup", "Setup\DataViewSetup.wixproj", "{C4C851BA-58D6-4BB7-A538-3D370B0DF1A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,9 +17,9 @@ Global
 		{22C54354-E15B-4CC1-A678-52E2F96FD90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22C54354-E15B-4CC1-A678-52E2F96FD90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22C54354-E15B-4CC1-A678-52E2F96FD90B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3F04FAD6-58C0-4818-9DA9-323DD6333612}.Debug|Any CPU.ActiveCfg = Debug|x64
-		{3F04FAD6-58C0-4818-9DA9-323DD6333612}.Release|Any CPU.ActiveCfg = Release|x64
-		{3F04FAD6-58C0-4818-9DA9-323DD6333612}.Release|Any CPU.Build.0 = Release|x64
+		{C4C851BA-58D6-4BB7-A538-3D370B0DF1A1}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{C4C851BA-58D6-4BB7-A538-3D370B0DF1A1}.Release|Any CPU.ActiveCfg = Release|x64
+		{C4C851BA-58D6-4BB7-A538-3D370B0DF1A1}.Release|Any CPU.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

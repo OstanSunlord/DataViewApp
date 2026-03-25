@@ -19,6 +19,9 @@
 
   <ItemGroup>
     <PackageReference Include="Parquet.Net" Version="5.5.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="8.0.10" />
+    <PackageReference Include="Apache.Avro" Version="1.12.0" />
   </ItemGroup>
 
 </Project>

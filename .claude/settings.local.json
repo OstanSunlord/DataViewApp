@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "codehive": {
+      "command": "C:\\Program Files (x86)\\TimeXtender\\TimeXtender CodeHive\\TimeXtender.CodeHive.App.exe",
+      "args": [
+        "--mcp",
+        "--repo",
+        "E:\\source\\Repos\\OstanSunlord\\DataViewApp"
+      ]
+    }
+  },
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build:*)"
+    ]
+  }
+}
